@@ -3322,7 +3322,7 @@ const rawData = [
     "year": 2019,
     "lat": 1.3975,
     "lng": 103.8997,
-    "features": ["Learnwalls", "Imagiplay", "Others - Footrock", "Pole", "Seat", "Shade", "Slide"],
+    "features": ["Learnwalls", "Imagiplay", "Others - Footrock", "Pole", "Seat", "Shade", "Slide", "Spinner"],
     "featurePhotos": {
       "Learnwalls": "photos/Sengkang_Towncentre_Group 1/image_(165).jpg",
       "Imagiplay": "photos/Sengkang_Towncentre_Group 1/image_(169).jpg",
