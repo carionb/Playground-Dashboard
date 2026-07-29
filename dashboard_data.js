@@ -3677,7 +3677,7 @@ const rawData = [
       "Shade": "photos/Sengkang_Towncentre_Group 1/image_(151).jpg",
       "Slide": "photos/Sengkang_Towncentre_Group 1/image_(156).jpg",
       "Spinner": "photos/Sengkang_Towncentre_Group 1/image_(158).jpg",
-      "Waterplay": "photos/Sengkang_Towncentre_Group 1/IMG_7293.jpg"
+      "Waterplay": "photos/Sengkang_Towncentre_Group 1/IMG_7293.jpeg"
     }
   },
   {
