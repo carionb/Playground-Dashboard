@@ -194,7 +194,6 @@ const rawData = [
       "Climber": "photos/Punggol_Waterway East_Group 1/image_(131).jpg",
       "Fitness": "photos/Punggol_Waterway East_Group 1/image_(130).jpg",
       "Pavilion": "photos/Punggol_Waterway East_Group 1/image_(129).jpg",
-      "Rooftop": "No_Photo",
       "Spinner": "photos/Punggol_Waterway East_Group 1/image_(132).jpg"
     }
   },
@@ -2319,7 +2318,6 @@ const rawData = [
       "Fitness": "photos/Punggol_Waterway East_Group 1/image_(41).jpg",
       "Imagiplay": "photos/Punggol_Waterway East_Group 1/image_(46).jpg",
       "Learnwall": "photos/Punggol_Waterway East_Group 1/image_(49).jpg",
-      "Others - Roof": "No_Photo",
       "Others - Sensory": "photos/Punggol_Waterway East_Group 1/image_(42).jpg",
       "Pavilion": "photos/Punggol_Waterway East_Group 1/image_(43).jpg",
       "Slide": "photos/Punggol_Waterway East_Group 1/image_(45).jpg"
@@ -3693,7 +3691,6 @@ const rawData = [
     "lng": 103.8926,
     "features": ["Climber", "Imagiplay", "Learnwall", "Others - Sensory", "Pavilion", "Seat", "Shade", "Slide", "Swing"],
     "featurePhotos": {
-      "Climber": "No_Photo",
       "Imagiplay": "photos/Sengkang_Towncentre_Group 2/image_(44).jpg",
       "Learnwall": "photos/Sengkang_Towncentre_Group 2/image_(45).jpg",
       "Others - Sensory": "photos/Sengkang_Towncentre_Group 2/image_(42).jpg",
@@ -3827,8 +3824,6 @@ const rawData = [
     "features": ["Climber", "Imagiplay", "Learnwall", "Others - Sensory", "Pole", "Seat", "Shade", "Slide"],
     "featurePhotos": {
       "Climber": "photos/Sengkang_Towncentre_Group 2/image_(30).jpg",
-      "Imagiplay": "No_Photo",
-      "Learnwall": "No_Photo",
       "Others - Sensory": "photos/Sengkang_Towncentre_Group 2/image_(26).jpg",
       "Pole": "photos/Sengkang_Towncentre_Group 2/image_(27).jpg",
       "Seat": "photos/Sengkang_Towncentre_Group 2/17443537384545349934165911263502.jpg",
@@ -5150,7 +5145,6 @@ const rawData = [
       "Seat": "photos/Sengkang_Towncentre_Group 2/17443527714275252885941817744118.jpg",
       "Shade": "photos/Sengkang_Towncentre_Group 2/174435281523714704269976660070.jpg",
       "Slide": "photos/Sengkang_Towncentre_Group 2/17443528540207303056110887007441.jpg",
-      "Tunnel": "No_Photo"
     }
   },
   {
