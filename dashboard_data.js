@@ -4179,14 +4179,14 @@ const rawData = [
     "lng": 103.8988,
     "features": ["Climber", "Learnwall", "Obstacle", "Others - Hardcourt", "Rocker", "Seat", "Shade", "Slide"],
     "featurePhotos": {
-      "Climber": "photos/Sengkang_Towncentre_Group 1/image_(9).jpg",
-      "Learnwall": "photos/Sengkang_Towncentre_Group 1/image_(4).jpg",
-      "Obstacle": "photos/Sengkang_Towncentre_Group 1/image_(3).jpg",
-      "Others - Hardcourt": "photos/Sengkang_Towncentre_Group 1/image_(1).jpg",
-      "Rocker": "photos/Sengkang_Towncentre_Group 1/image_(2).jpg",
-      "Seat": "photos/Sengkang_Towncentre_Group 1/image_(7).jpg",
-      "Shade": "photos/Sengkang_Towncentre_Group 1/image_(5).jpg",
-      "Slide": "photos/Sengkang_Towncentre_Group 1/image_(6).jpg"
+      "Climber": "photos/Sengkang_Towncentre_Group 1/image_(8).jpg",
+      "Learnwall": "photos/Sengkang_Towncentre_Group 1/image_(3).jpg",
+      "Obstacle": "photos/Sengkang_Towncentre_Group 1/image_(2).jpg",
+      "Others - Hardcourt": "photos/Sengkang_Towncentre_Group 1/image.jpg",
+      "Rocker": "photos/Sengkang_Towncentre_Group 1/image_(1).jpg",
+      "Seat": "photos/Sengkang_Towncentre_Group 1/image_(6).jpg",
+      "Shade": "photos/Sengkang_Towncentre_Group 1/image_(4).jpg",
+      "Slide": "photos/Sengkang_Towncentre_Group 1/image_(5).jpg"
     }
   },
   {
