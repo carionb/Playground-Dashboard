@@ -3307,7 +3307,7 @@ const rawData = [
       "Learnwall": "photos/Sengkang_Towncentre_Group 1/image_(165).jpg",
       "Others - Footrock": "photos/Sengkang_Towncentre_Group 1/image_(167).jpg",
       "Pole": "photos/Sengkang_Towncentre_Group 1/image_(163).jpg",
-      "Seat": "photos/Sengkang_Towncentre_Group 1/image_(168).jpg",
+      "Seat": "photos/Sengkang_Towncentre_Group 1/image_(183).jpg",
       "Shade": "photos/Sengkang_Towncentre_Group 1/image_(166).jpg",
       "Slide": "photos/Sengkang_Towncentre_Group 1/image_(162).jpg",
       "Spinner": "photos/Sengkang_Towncentre_Group 1/image_(161).jpg"
@@ -3322,16 +3322,16 @@ const rawData = [
     "year": 2019,
     "lat": 1.3975,
     "lng": 103.8997,
-    "features": ["Climber", "Fitness", "Others - Footrock", "Others - Hardcourt", "Pavilion", "Rocker", "Seat", "Slide"],
+    "features": ["Learnwalls", "Imagiplay", "Others - Footrock", "Pole", "Seat", "Shade", "Slide"],
     "featurePhotos": {
-      "Climber": "photos/Sengkang_Towncentre_Group 1/image_(29).jpg",
-      "Fitness": "photos/Sengkang_Towncentre_Group 1/image_(27).jpg",
-      "Others - Footrock": "photos/Sengkang_Towncentre_Group 1/image_(25).jpg",
-      "Others - Hardcourt": "photos/Sengkang_Towncentre_Group 1/image_(24).jpg",
-      "Pavilion": "photos/Sengkang_Towncentre_Group 1/image_(28).jpg",
-      "Rocker": "photos/Sengkang_Towncentre_Group 1/image_(26).jpg",
-      "Seat": "photos/Sengkang_Towncentre_Group 1/image_(34).jpg",
-      "Slide": "photos/Sengkang_Towncentre_Group 1/image_(31).jpg"
+      "Learnwalls": "photos/Sengkang_Towncentre_Group 1/image_(165).jpg",
+      "Imagiplay": "photos/Sengkang_Towncentre_Group 1/image_(169).jpg",
+      "Others - Footrock": "photos/Sengkang_Towncentre_Group 1/image_(167).jpg",
+      "Pole": "photos/Sengkang_Towncentre_Group 1/image_(163).jpg",
+      "Seat": "photos/Sengkang_Towncentre_Group 1/image_(168).jpg",
+      "Shade": "photos/Sengkang_Towncentre_Group 1/image_(166).jpg",
+      "Slide": "photos/Sengkang_Towncentre_Group 1/image_(162).jpg",
+      "Spinner": "photos/Sengkang_Towncentre_Group 1/image_(161).jpg"
     }
   },
   {
