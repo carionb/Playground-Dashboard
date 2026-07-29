@@ -5242,7 +5242,7 @@ const rawData = [
       "Others - Footrock": "photos/Sengkang_Towncentre_Group 1/image_(129).jpg",
       "Others - Hardcourt": "photos/Sengkang_Towncentre_Group 1/image_(128).jpg",
       "Seat": "photos/Sengkang_Towncentre_Group 1/image_(130).jpg",
-      "Slide": "photos/Sengkang_Towncentre_Group 1/.jpg"
+      "Slide": "photos/Sengkang_Towncentre_Group 1/image_(131).jpg"
     }
   },
   {
