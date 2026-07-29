@@ -7,23 +7,6 @@ Do you know where are the outdoor children playgrounds in Punggol and Sengkang?
 
 Our study team1 has developed an online data dashboard on the location and features of 291 children playgrounds in Punggol and Sengkang towns. These two towns have the highest share of children (under age 18) in Singapore.
 
-Simply choose a neighbourhood, and discover the outdoor playgrounds in Punggol and Sengkang.
-
-Punggol
-
-Punggol Town Centre
-Punggol Field
-Matilda
-Northshore
-Waterway East
- 
-Sengkang
-
-Sengkang Town Centre
-Anchorvale
-Compassvale
-Fernvale
-Rivervale
 Our dashboard is filled with up-to-date photos taken as of June 2025, so you can take a virtual tour before you visit. With just a few clicks, children, parents, and caregivers can zoom in, filter, and browse through all the playgrounds to find your favourite. Curious about how many playgrounds have your favourite play equipment (e.g., swings), or which ones are made for children of certain age (e.g., age 2-5)? It is easy to search and learn all about playgrounds on our playground dashboard.  As far as we know, this is Singapore’s very first playground dashboard. Explore and discover.
 
 We invite you to visit the playgrounds with your children.
