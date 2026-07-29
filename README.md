@@ -1,5 +1,5 @@
 # Playground-Dashboard
-Playground Dashboard
+
 The need for planning and design for all ages is increasingly recognised. Yet, child-friendly neighbourhoods are relatively little discussed. More alarmingly, Singapore’s children population (under age 18) has been gradually declining since 1980; in 2023, Singapore’s TFR dropped to below 1 for the first time in the nation’s history. While there is growing literature on child-friendly cities since 2000, no empirical research has examined Singaporean children’s perceptions and preferences for child-friendly neighbourhoods. There is yet no study on how built environment professionals approach the concept of child-friendly neighbourhoods in Singapore. Adopting a built environment-health lens, this pilot study seeks to establish the first empirical evidence on perceptions and preferences for child-friendly neighbourhoods in Singapore through both the perspective of children and built environment professionals.
 
 Discover children playgrounds in Punggol and Sengkang
