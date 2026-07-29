@@ -5179,7 +5179,7 @@ const rawData = [
     "featurePhotos": {
       "Climber": "photos/Sengkang_Towncentre_Group 1/IMG_7335.jpeg",
       "Learnwall": "photos/Sengkang_Towncentre_Group 1/IMG_7336.jpeg",
-      "Obstacle": "photos/Sengkang_Towncentre_Group 1/IMG_7334.jpg",
+      "Obstacle": "photos/Sengkang_Towncentre_Group 1/IMG_7334.jpeg",
       "Seat": "photos/Sengkang_Towncentre_Group 1/IMG_7330.jpeg",
       "Shade": "photos/Sengkang_Towncentre_Group 1/IMG_7333.jpeg",
       "Slide": "photos/Sengkang_Towncentre_Group 1/IMG_7331.jpeg"
