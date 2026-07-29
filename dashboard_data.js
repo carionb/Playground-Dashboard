@@ -1387,7 +1387,7 @@ const rawData = [
     "featurePhotos": {
       "Climber": "photos/Punggol_Northshore_Group 1/17473833020363081481045374696923.jpg",
       "Fitness": "photos/Punggol_Northshore_Group 1/17473834470704259370307335625252.jpg",
-      "Imagiplay": "photos/Punggol_Northshore_Group 1/1000032636.jpg",
+      "Imagiplay": "https://sutdapac-my.sharepoint.com/personal/baorong_li_sutd_edu_sg/Documents/photos/Punggol_Northshore_Group%201/1000032636.jpg",
       "Obstacle": "photos/Punggol_Northshore_Group 1/image_(13).jpg",
       "Slide": "photos/Punggol_Northshore_Group 1/1747383222298222023534470915035.jpg",
       "Swing": "photos/Punggol_Northshore_Group 1/17473830571282600356594447090758.jpg"
