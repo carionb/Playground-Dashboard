@@ -3259,7 +3259,7 @@ const rawData = [
     "lng": 103.8939,
     "features": ["Fitness", "Imagiplay", "Learnwall", "Others - Footrock", "Pavilion", "Ropenet", "Seat", "Seesaw", "Slide", "Spinner", "Swing"],
     "featurePhotos": {
-      "Fitness": "photos/Sengkang_Towncentre_Group 2/1744358425260632220397005956214.jpg",
+      "Fitness": "photos/Sengkang_Towncentre_Group 2/image_(56).jpg",
       "Imagiplay": "photos/Sengkang_Towncentre_Group 2/image_(53).jpg",
       "Learnwall": "photos/Sengkang_Towncentre_Group 2/image_(55).jpg",
       "Others - Footrock": "photos/Sengkang_Towncentre_Group 2/image_(52).jpg",
