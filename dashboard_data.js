@@ -190,7 +190,7 @@ const rawData = [
     "year": 2021,
     "lat": 1.4051,
     "lng": 103.9106,
-    "features": ["Climber", "Fitness", "Pavilion", "Rooftop", "Spinner"],
+    "features": ["Climber", "Fitness", "Pavilion", "Spinner"],
     "featurePhotos": {
       "Climber": "photos/Punggol_Waterway East_Group 1/image_(131).jpg",
       "Fitness": "photos/Punggol_Waterway East_Group 1/image_(130).jpg",
@@ -237,7 +237,7 @@ const rawData = [
       "Seesaw": "photos/Punggol_Waterway East_Group 1/image_(113).jpg",
       "Shade": "photos/Punggol_Waterway East_Group 1/image_(111).jpg",
       "Slide": "photos/Punggol_Waterway East_Group 1/image_(117).jpg",
-      "Swing": "photos/Punggol_Waterway East_Group 1/image_(101).jpg",
+      "Swing": "photos/Punggol_Waterway East_Group 1/image_(108).jpg",
       "Tunnel": "photos/Punggol_Waterway East_Group 1/image_(109).jpg"
     }
   },
@@ -306,9 +306,9 @@ const rawData = [
       "Learnwall": "photos/Sengkang_Anchorvale_Group 2/2025_04_1710_42_043457260244806475734.jpg",
       "Others - Sensory": "photos/Sengkang_Anchorvale_Group 2/2025_04_1710_43_076230787259987764656.jpg",
       "Pole": "photos/Sengkang_Anchorvale_Group 2/2025_04_1710_42_382419550966330574988.jpg",
-      "Seat": "photos/Sengkang_Towncentre_Group 2/17443552310491497249043169124795.jpg",
-      "Shade": "photos/Sengkang_Towncentre_Group 2/17443552945181814561390442712743.jpg",
-      "Slide": "photos/Sengkang_Towncentre_Group 2/17443553369908231183284407957743.jpg",
+      "Seat": "photos/Sengkang_Anchorvale_Group 2/17443552310491497249043169124795.jpg",
+      "Shade": "photos/Sengkang_Anchorvale_Group 2/17443552945181814561390442712743.jpg",
+      "Slide": "photos/Sengkang_Anchorvale_Group 2/17443553369908231183284407957743.jpg",
       "Spinner": "photos/Sengkang_Anchorvale_Group 2/2025_04_1710_44_456573669681961852124.jpg"
     }
   },
@@ -926,7 +926,7 @@ const rawData = [
     "year": 2023,
     "lat": 1.3995,
     "lng": 103.9155,
-    "features": ["Climber", "Imagiplay", "Learnwall", "Others - Hardcourt", "Others - Sensory", "Pavilion", "Rocker", "Rooftop", "Seat", "Shade", "Slide"],
+    "features": ["Climber", "Imagiplay", "Learnwall", "Others - Hardcourt", "Others - Sensory", "Pavilion", "Rocker", "Seat", "Shade", "Slide"],
     "featurePhotos": {
       "Climber": "photos/Punggol_Waterway East_Group 2/17472113107876107953586354258470.jpg",
       "Imagiplay": "photos/Punggol_Waterway East_Group 2/174721127783057910093981993433.jpg",
@@ -935,7 +935,6 @@ const rawData = [
       "Others - Sensory": "photos/Punggol_Waterway East_Group 2/17472112601097927497520137902574.jpg",
       "Pavilion": "photos/Punggol_Waterway East_Group 2/17472109793051985659527792367102.jpg",
       "Rocker": "photos/Punggol_Waterway East_Group 2/17472111328485893069219258136514.jpg",
-      "Rooftop": "photos/Punggol_Waterway East_Group 2/.jpg",
       "Seat": "photos/Punggol_Waterway East_Group 2/17472111618326997113632354226956.jpg",
       "Shade": "photos/Punggol_Waterway East_Group 2/17472112171717960157754033177902.jpg",
       "Slide": "photos/Punggol_Waterway East_Group 2/17472110398016496781362464535972.jpg"
@@ -1706,11 +1705,11 @@ const rawData = [
     "lng": 103.9077,
     "features": ["Climber", "Learnwall", "Overhead", "Seat", "Slide"],
     "featurePhotos": {
-      "Climber": "photos/Rivervale_Group 1\\image_(37).jpg",
-      "Learnwall": "photos/Rivervale_Group 1\\image_(34).jpg",
-      "Overhead": "photos/Rivervale_Group 1\\image_(33).jpg",
-      "Seat": "photos/Rivervale_Group 1\\image_(36).jpg",
-      "Slide": "photos/Rivervale_Group 1\\image_(35).jpg"
+      "Climber": "photos/Rivervale_Group 1/image_(37).jpg",
+      "Learnwall": "photos/Rivervale_Group 1/image_(34).jpg",
+      "Overhead": "photos/Rivervale_Group 1/image_(33).jpg",
+      "Seat": "photos/Rivervale_Group 1/image_(36).jpg",
+      "Slide": "photos/Rivervale_Group 1/image_(35).jpg"
     }
   },
   {
@@ -1754,11 +1753,11 @@ const rawData = [
     "lng": 103.9079,
     "features": ["Climber", "Fitness", "Learnwall", "Others - Sensory", "Seesaw"],
     "featurePhotos": {
-      "Climber": "photos/Rivervale_Group 1\\image_(71).jpg",
-      "Fitness": "photos/Rivervale_Group 1\\image_(70).jpg",
-      "Learnwall": "photos/Rivervale_Group 1\\image_(69).jpg",
-      "Others - Sensory": "photos/Rivervale_Group 1\\image_(73).jpg",
-      "Seesaw": "photos/Rivervale_Group 1\\image_(68).jpg"
+      "Climber": "photos/Rivervale_Group 1/image_(71).jpg",
+      "Fitness": "photos/Rivervale_Group 1/image_(70).jpg",
+      "Learnwall": "photos/Rivervale_Group 1/image_(69).jpg",
+      "Others - Sensory": "photos/Rivervale_Group 1/image_(73).jpg",
+      "Seesaw": "photos/Rivervale_Group 1/image_(68).jpg"
     }
   },
   {
@@ -1772,10 +1771,10 @@ const rawData = [
     "lng": 103.9083,
     "features": ["Climber", "Fitness", "Rocker", "Seesaw"],
     "featurePhotos": {
-      "Climber": "photos/Rivervale_Group 1\\image_(65).jpg",
-      "Fitness": "photos/Rivervale_Group 1\\image_(63).jpg",
-      "Rocker": "photos/Rivervale_Group 1\\image_(67).jpg",
-      "Seesaw": "photos/Rivervale_Group 1\\image_(64).jpg"
+      "Climber": "photos/Rivervale_Group 1/image_(65).jpg",
+      "Fitness": "photos/Rivervale_Group 1/image_(63).jpg",
+      "Rocker": "photos/Rivervale_Group 1/image_(67).jpg",
+      "Seesaw": "photos/Rivervale_Group 1/image_(64).jpg"
     }
   },
   {
@@ -1789,9 +1788,9 @@ const rawData = [
     "lng": 103.9083,
     "features": ["Learnwall", "Rocker", "Slide"],
     "featurePhotos": {
-      "Learnwall": "photos/Rivervale_Group 1\\image_(59).jpg",
-      "Rocker": "photos/Rivervale_Group 1\\image_(60).jpg",
-      "Slide": "photos/Rivervale_Group 1\\image_(58).jpg"
+      "Learnwall": "photos/Rivervale_Group 1/image_(59).jpg",
+      "Rocker": "photos/Rivervale_Group 1/image_(60).jpg",
+      "Slide": "photos/Rivervale_Group 1/image_(58).jpg"
     }
   },
   {
@@ -1867,12 +1866,12 @@ const rawData = [
     "lng": 103.9097,
     "features": ["Climber", "Fitness", "Learnwall", "Others - Ladder", "Seesaw", "Slide"],
     "featurePhotos": {
-      "Climber": "photos/Rivervale_Group 1\\image_(43).jpg",
-      "Fitness": "photos/Rivervale_Group 1\\image_(41).jpg",
-      "Learnwall": "photos/Rivervale_Group 1\\image_(44).jpg",
-      "Others - Ladder": "photos/Rivervale_Group 1\\image_(40).jpg",
-      "Seesaw": "photos/Rivervale_Group 1\\image_(45).jpg",
-      "Slide": "photos/Rivervale_Group 1\\image_(42).jpg"
+      "Climber": "photos/Rivervale_Group 1/image_(43).jpg",
+      "Fitness": "photos/Rivervale_Group 1/image_(41).jpg",
+      "Learnwall": "photos/Rivervale_Group 1/image_(44).jpg",
+      "Others - Ladder": "photos/Rivervale_Group 1/image_(40).jpg",
+      "Seesaw": "photos/Rivervale_Group 1/image_(45).jpg",
+      "Slide": "photos/Rivervale_Group 1/image_(42).jpg"
     }
   },
   {
@@ -2122,11 +2121,11 @@ const rawData = [
     "lng": 103.9047,
     "features": ["Climber", "Learnwall", "Ropenet", "Seat", "Slide"],
     "featurePhotos": {
-      "Climber": "photos/Rivervale_Group 1\\image_(20).jpg",
-      "Learnwall": "photos/Rivervale_Group 1\\image_(23).jpg",
-      "Ropenet": "photos/Rivervale_Group 1\\image_(22).jpg",
-      "Seat": "photos/Rivervale_Group 1\\image_(26).jpg",
-      "Slide": "photos/Rivervale_Group 1\\image_(24).jpg"
+      "Climber": "photos/Rivervale_Group 1/image_(20).jpg",
+      "Learnwall": "photos/Rivervale_Group 1/image_(23).jpg",
+      "Ropenet": "photos/Rivervale_Group 1/image_(22).jpg",
+      "Seat": "photos/Rivervale_Group 1/image_(26).jpg",
+      "Slide": "photos/Rivervale_Group 1/image_(24).jpg"
     }
   },
   {
@@ -2140,14 +2139,14 @@ const rawData = [
     "lng": 103.903,
     "features": ["Climber", "Imagiplay", "Learnwall", "Others - Footrock", "Pole", "Seat", "Slide", "Spinner"],
     "featurePhotos": {
-      "Climber": "photos/Rivervale_Group 1\\image_(5).jpg",
-      "Imagiplay": "photos/Rivervale_Group 1\\image_(7).jpg",
-      "Learnwall": "photos/Rivervale_Group 1\\image_(1).jpg",
-      "Others - Footrock": "photos/Rivervale_Group 1\\image.jpg",
-      "Pole": "photos/Rivervale_Group 1\\image_(2).jpg",
-      "Seat": "photos/Rivervale_Group 1\\image_(6).jpg",
-      "Slide": "photos/Rivervale_Group 1\\image_(3).jpg",
-      "Spinner": "photos/Rivervale_Group 1\\image_(9).jpg"
+      "Climber": "photos/Rivervale_Group 1/image_(5).jpg",
+      "Imagiplay": "photos/Rivervale_Group 1/image_(7).jpg",
+      "Learnwall": "photos/Rivervale_Group 1/image_(1).jpg",
+      "Others - Footrock": "photos/Rivervale_Group 1/image.jpg",
+      "Pole": "photos/Rivervale_Group 1/image_(2).jpg",
+      "Seat": "photos/Rivervale_Group 1/image_(6).jpg",
+      "Slide": "photos/Rivervale_Group 1/image_(3).jpg",
+      "Spinner": "photos/Rivervale_Group 1/image_(9).jpg"
     }
   },
   {
@@ -2310,7 +2309,7 @@ const rawData = [
     "year": 2024,
     "lat": 1.4021,
     "lng": 103.9172,
-    "features": ["Climber", "Fitness", "Imagiplay", "Learnwall", "Others - Roof", "Others - Sensory", "Pavilion", "Slide"],
+    "features": ["Climber", "Fitness", "Imagiplay", "Learnwall", "Others - Sensory", "Pavilion", "Slide"],
     "featurePhotos": {
       "Climber": "photos/Punggol_Waterway East_Group 1/image_(44).jpg",
       "Fitness": "photos/Punggol_Waterway East_Group 1/image_(41).jpg",
@@ -2513,6 +2512,7 @@ const rawData = [
       "Pavilion": "photos/Sengkang_Fernvale/image_(198).jpg",
       "Rocker": "photos/Sengkang_Fernvale/6AF04186_9AE6_4BF3_97D1_A700CFDF26E5.jpg",
       "Seat": "photos/Sengkang_Fernvale/image_(200).jpg",
+      "Shade": "photos/Sengkang_Fernvale/image_(196).jpg",
       "Slide": "photos/Sengkang_Fernvale/image_(199).jpg"
     }
   },
@@ -2574,7 +2574,7 @@ const rawData = [
       "Others - Sensory": "photos/Sengkang_Fernvale/image_(183).jpg",
       "Pavilion": "photos/Sengkang_Fernvale/IMG_9572.jpeg",
       "Seat": "photos/Sengkang_Fernvale/image_(186).jpg",
-      "Shade": "photos/Sengkang_Fernvale/IMG_9572.jpeg",
+      "Shade": "photos/Sengkang_Fernvale/image_(184).jpg",
       "Slide": "photos/Sengkang_Fernvale/image_(185).jpg",
       "Spinner": "photos/Sengkang_Fernvale/image_(187).jpg",
       "Swing": "photos/Sengkang_Fernvale/image_(188).jpg"
@@ -3056,7 +3056,7 @@ const rawData = [
     "features": ["Fitness", "Obstacle", "Pavilion", "Rocker", "Seat", "Slide", "Spinner", "Swing"],
     "featurePhotos": {
       "Fitness": "photos/Sengkang_Fernvale/image_(92).jpg",
-      "Obstacle": "photos/Sengkang_Fernvale/image_(78).jpg",
+      "Obstacle": "photos/Sengkang_Fernvale/IMG_5882.jpeg",
       "Pavilion": "photos/Sengkang_Fernvale/image_(97).jpg",
       "Rocker": "photos/Sengkang_Fernvale/image_(94).jpg",
       "Seat": "photos/Sengkang_Fernvale/image_(95).jpg",
@@ -3094,15 +3094,13 @@ const rawData = [
     "year": 2019,
     "lat": 1.3888,
     "lng": 103.8734,
-    "features": ["Climber", "Imagiplay", "Learnwall", "Obstacle", "Pavilion", "Rooftop", "Ropenet", "Seat", "Shade", "Slide", "Tunnel"],
+    "features": ["Climber", "Imagiplay", "Learnwall", "Obstacle", "Pavilion", "Seat", "Shade", "Slide", "Tunnel"],
     "featurePhotos": {
       "Climber": "photos/Sengkang_Fernvale/3ec18ff0_610b_4ede_ad0c_0eb4b5129379.jpeg",
       "Imagiplay": "photos/Sengkang_Fernvale/757eb98e_59a8_4000_ad13_0276c196f186.jpeg",
       "Learnwall": "photos/Sengkang_Fernvale/1e8486ef_373b_4d4c_a7bf_10d3e4e2a83a.jpeg",
       "Obstacle": "photos/Sengkang_Fernvale/8dff567f_42df_4ed9_9915_e34a5e6647e1.jpeg",
       "Pavilion": "photos/Sengkang_Fernvale/IMG_9575.jpeg",
-      "Rooftop": "photos/Sengkang_Fernvale/17497927053522325204650792782265.jpg",
-      "Ropenet": "photos/Sengkang_Fernvale/IMG_9580.jpeg",
       "Seat": "photos/Sengkang_Fernvale/image_(180).jpg",
       "Shade": "photos/Sengkang_Fernvale/image_(175).jpg",
       "Slide": "photos/Sengkang_Fernvale/image_(179).jpg",
@@ -3499,7 +3497,7 @@ const rawData = [
       "Others - Footrock": "photos/Sengkang_Matilda_Group 1/image_(2).jpg",
       "Others - Sensory": "photos/Sengkang_Matilda_Group 1/image_(4).jpg",
       "Pavilion": "photos/Sengkang_Matilda_Group 1/image_(7).jpg",
-      "Seat": "photos/Sengkang_Matilda_Group 1/image_(11).jpg",
+      "Seat": "photos/Sengkang_Matilda_Group 1/image_(1).jpg",
       "Slide": "photos/Sengkang_Matilda_Group 1/image_(5).jpg"
     }
   },
@@ -3556,14 +3554,14 @@ const rawData = [
     "lng": 103.9034,
     "features": ["Climber", "Fitness", "Imagiplay", "Learnwall", "Rocker", "Shade", "Slide", "Spinner"],
     "featurePhotos": {
-      "Climber": "photos/Rivervale_Group 1\\image_(14).jpg",
-      "Fitness": "photos/Rivervale_Group 1\\image_(10).jpg",
-      "Imagiplay": "photos/Rivervale_Group 1\\image_(15).jpg",
-      "Learnwall": "photos/Rivervale_Group 1\\image_(13).jpg",
-      "Rocker": "photos/Rivervale_Group 1\\image_(12).jpg",
-      "Shade": "photos/Rivervale_Group 1\\image_(16).jpg",
-      "Slide": "photos/Rivervale_Group 1\\image_(17).jpg",
-      "Spinner": "photos/Rivervale_Group 1\\image_(11).jpg"
+      "Climber": "photos/Rivervale_Group 1/image_(14).jpg",
+      "Fitness": "photos/Rivervale_Group 1/image_(10).jpg",
+      "Imagiplay": "photos/Rivervale_Group 1/image_(15).jpg",
+      "Learnwall": "photos/Rivervale_Group 1/image_(13).jpg",
+      "Rocker": "photos/Rivervale_Group 1/image_(12).jpg",
+      "Shade": "photos/Rivervale_Group 1/image_(16).jpg",
+      "Slide": "photos/Rivervale_Group 1/image_(17).jpg",
+      "Spinner": "photos/Rivervale_Group 1/image_(11).jpg"
     }
   },
   {
@@ -3621,7 +3619,7 @@ const rawData = [
       "Learnwall": "photos/Sengkang_Towncentre_Group 1/image_(111).jpg",
       "Obstacle": "photos/Sengkang_Towncentre_Group 1/image_(113).jpg",
       "Others - Footrock": "photos/Sengkang_Towncentre_Group 1/image_(108).jpg",
-      "Rocker": "photos/Sengkang_Towncentre_Group 1/image_(111).jpg",
+      "Rocker": "photos/Sengkang_Towncentre_Group 1/image_(110).jpg",
       "Seat": "photos/Sengkang_Towncentre_Group 1/image_(119).jpg",
       "Shade": "photos/Sengkang_Towncentre_Group 1/image_(114).jpg",
       "Slide": "photos/Sengkang_Towncentre_Group 1/image_(115).jpg"
@@ -3668,7 +3666,7 @@ const rawData = [
       "Imagiplay": "photos/Sengkang_Towncentre_Group 1/image_(147).jpg",
       "Learnwall": "photos/Sengkang_Towncentre_Group 1/image_(150).jpg",
       "Obstacle": "photos/Sengkang_Towncentre_Group 1/image_(153).jpg",
-      "Overhead": "photos/Sengkang_Towncentre_Group 1/image_(153).jpg",
+      "Overhead": "photos/Sengkang_Towncentre_Group 1/image_(152).jpg",
       "Rocker": "photos/Sengkang_Towncentre_Group 1/image_(148).jpg",
       "Seat": "photos/Sengkang_Towncentre_Group 1/image_(159).jpg",
       "Shade": "photos/Sengkang_Towncentre_Group 1/image_(151).jpg",
@@ -3686,7 +3684,7 @@ const rawData = [
     "year": 2018,
     "lat": 1.389,
     "lng": 103.8926,
-    "features": ["Climber", "Imagiplay", "Learnwall", "Others - Sensory", "Pavilion", "Seat", "Shade", "Slide", "Swing"],
+    "features": ["Imagiplay", "Learnwall", "Others - Sensory", "Pavilion", "Seat", "Shade", "Slide", "Swing"],
     "featurePhotos": {
       "Imagiplay": "photos/Sengkang_Towncentre_Group 2/image_(44).jpg",
       "Learnwall": "photos/Sengkang_Towncentre_Group 2/image_(45).jpg",
@@ -3818,7 +3816,7 @@ const rawData = [
     "year": 2018,
     "lat": 1.3864,
     "lng": 103.8958,
-    "features": ["Climber", "Imagiplay", "Learnwall", "Others - Sensory", "Pole", "Seat", "Shade", "Slide"],
+    "features": ["Climber", "Others - Sensory", "Pole", "Seat", "Shade", "Slide"],
     "featurePhotos": {
       "Climber": "photos/Sengkang_Towncentre_Group 2/image_(30).jpg",
       "Others - Sensory": "photos/Sengkang_Towncentre_Group 2/image_(26).jpg",
@@ -4472,14 +4470,14 @@ const rawData = [
     "lng": 103.9102,
     "features": ["Climber", "Fitness", "Learnwall", "Merrygo", "Obstacle", "Rocker", "Slide", "Swing"],
     "featurePhotos": {
-      "Climber": "photos/Rivervale_Group 1\\image_(53).jpg",
-      "Fitness": "photos/Rivervale_Group 1\\image_(57).jpg",
-      "Learnwall": "photos/Rivervale_Group 1\\image_(52).jpg",
-      "Merrygo": "photos/Rivervale_Group 1\\image_(50).jpg",
-      "Obstacle": "photos/Rivervale_Group 1\\image_(51).jpg",
-      "Rocker": "photos/Rivervale_Group 1\\image_(54).jpg",
-      "Slide": "photos/Rivervale_Group 1\\image_(55).jpg",
-      "Swing": "photos/Rivervale_Group 1\\image_(49).jpg"
+      "Climber": "photos/Rivervale_Group 1/image_(53).jpg",
+      "Fitness": "photos/Rivervale_Group 1/image_(57).jpg",
+      "Learnwall": "photos/Rivervale_Group 1/image_(52).jpg",
+      "Merrygo": "photos/Rivervale_Group 1/image_(50).jpg",
+      "Obstacle": "photos/Rivervale_Group 1/image_(51).jpg",
+      "Rocker": "photos/Rivervale_Group 1/image_(54).jpg",
+      "Slide": "photos/Rivervale_Group 1/image_(55).jpg",
+      "Swing": "photos/Rivervale_Group 1/image_(49).jpg"
     }
   },
   {
@@ -4537,7 +4535,7 @@ const rawData = [
       "Others - Footrock": "photos/Sengkang_Matilda_Group 2/image_(45).jpg",
       "Pavilion": "photos/Sengkang_Matilda_Group 2/image_(46).jpg",
       "Seat": "photos/Sengkang_Matilda_Group 2/2025_04_2313_31_215972532075296194044.jpg",
-      "Seesaw": "photos/Sengkang_Matilda_Group 2/2025_04_2313_30_265446280446313694711.jpg\""
+      "Seesaw": "photos/Sengkang_Matilda_Group 2/2025_04_2313_30_265446280446313694711.jpg"
     }
   },
   {
@@ -4775,7 +4773,7 @@ const rawData = [
       "Climber": "photos/Sengkang_Matilda_Group 1/image_(72).jpg",
       "Fitness": "photos/Sengkang_Matilda_Group 1/1745386603704654414934081347471.jpg",
       "Learnwall": "photos/Sengkang_Matilda_Group 1/image_(70).jpg",
-      "Others - Sensory": "photos/Sengkang_Matilda_Group 1/image_(70).jpg",
+      "Others - Sensory": "photos/Sengkang_Matilda_Group 1/17453866436502025572059931385193.jpg",
       "Pavilion": "photos/Sengkang_Matilda_Group 1/17453865780412653097204300812375.jpg",
       "Seat": "photos/Sengkang_Matilda_Group 1/17453867456341274213044065158349.jpg",
       "Seesaw": "photos/Sengkang_Matilda_Group 1/image_(69).jpg",
@@ -5067,11 +5065,11 @@ const rawData = [
     "lng": 103.9063,
     "features": ["Climber", "Pole", "Seat", "Slide", "Spinner"],
     "featurePhotos": {
-      "Climber": "photos/Rivervale_Group 1\\image_(28).jpg",
-      "Pole": "photos/Rivervale_Group 1\\image_(27).jpg",
-      "Seat": "photos/Rivervale_Group 1\\image_(32).jpg",
-      "Slide": "photos/Rivervale_Group 1\\image_(29).jpg",
-      "Spinner": "photos/Rivervale_Group 1\\image_(30).jpg"
+      "Climber": "photos/Rivervale_Group 1/image_(28).jpg",
+      "Pole": "photos/Rivervale_Group 1/image_(27).jpg",
+      "Seat": "photos/Rivervale_Group 1/image_(32).jpg",
+      "Slide": "photos/Rivervale_Group 1/image_(29).jpg",
+      "Spinner": "photos/Rivervale_Group 1/image_(30).jpg"
     }
   },
   {
@@ -5085,7 +5083,7 @@ const rawData = [
     "lng": 103.9051,
     "features": "Others - Basketball Court",
     "featurePhotos": {
-      "Others - Basketball Court": "photos/Rivervale_Group 1\\IMG_7123.jpeg"
+      "Others - Basketball Court": "photos/Rivervale_Group 1/IMG_7123.jpeg"
     }
   },
   {
@@ -5099,8 +5097,8 @@ const rawData = [
     "lng": 103.9039,
     "features": ["Others - Hardcourt", "Seat"],
     "featurePhotos": {
-      "Others - Hardcourt": "photos/Rivervale_Group 1\\image_(19).jpg",
-      "Seat": "photos/Rivervale_Group 1\\image_(18).jpg"
+      "Others - Hardcourt": "photos/Rivervale_Group 1/image_(19).jpg",
+      "Seat": "photos/Rivervale_Group 1/image_(18).jpg"
     }
   },
   {
@@ -5117,9 +5115,9 @@ const rawData = [
       "Climber": "photos/Punggol_Punggol Field/image_(117).jpg",
       "Learnwall": "photos/Punggol_Punggol Field/image_(114).jpg",
       "Others - Hardcourt": "photos/Punggol_Punggol Field/image_(111).jpg",
-      "Pavilion": "photos/Punggol_Punggol Field/image_(14).jpg",
+      "Pavilion": "photos/Punggol_Punggol Field/17465974567191110695260120561832.jpg",
       "Rooftop": "photos/Punggol_Punggol Field/image_(112).jpg",
-      "Seat": "photos/Punggol_Punggol Field/image_(14).jpg",
+      "Seat": "photos/Punggol_Punggol Field/17465974567191110695260120561832.jpg",
       "Shade": "photos/Punggol_Punggol Field/image_(115).jpg",
       "Slide": "photos/Punggol_Punggol Field/image_(116).jpg"
     }
@@ -5133,7 +5131,7 @@ const rawData = [
     "year": 2018,
     "lat": 1.388,
     "lng": 103.8947,
-    "features": ["Climber", "Learnwall", "Overhead", "Pole", "Seat", "Shade", "Slide", "Tunnel"],
+    "features": ["Climber", "Learnwall", "Overhead", "Pole", "Seat", "Shade", "Slide"],
     "featurePhotos": {
       "Climber": "photos/Sengkang_Towncentre_Group 2/image_(34).jpg",
       "Learnwall": "photos/Sengkang_Towncentre_Group 2/image_(33).jpg",
@@ -5267,8 +5265,8 @@ const rawData = [
     "lng": 103.8986,
     "features": ["Others - Hardcourt", "Seat"],
     "featurePhotos": {
-      "Others - Hardcourt": "photos/Sengkang_Towncentre_Group 1/image_(45).jpg",
-      "Seat": "photos/Sengkang_Towncentre_Group 1/image_(44).jpg"
+      "Others - Hardcourt": "photos/Sengkang_Towncentre_Group 1/image_(44).jpg",
+      "Seat": "photos/Sengkang_Towncentre_Group 1/image_(43).jpg"
     }
   },
   {
@@ -5452,7 +5450,7 @@ const rawData = [
       "Overhead": "photos/Punggol_Northshore_Group 1/IMG_5073.jpeg",
       "Pavilion": "photos/Punggol_Northshore_Group 1/17473785960564987953421144487259.jpg",
       "Rocker": "photos/Punggol_Northshore_Group 1/image_(36).jpg",
-      "Rooftop": "photos/Punggol_Northshore_Group 1/17473785945152935735234536941115.jpg",
+      "Rooftop": "photos/Punggol_Northshore_Group 1/image_(34).jpg",
       "Seat": "photos/Punggol_Northshore_Group 1/17473782015173609489464461582491.jpg",
       "Slide": "photos/Punggol_Northshore_Group 1/17473784936825036641087237135613.jpg",
       "Swing": "photos/Punggol_Northshore_Group 1/17473785436169070449799801677762.jpg"
@@ -5915,7 +5913,7 @@ const rawData = [
     "year": 2021,
     "lat": 1.4003,
     "lng": 103.9118,
-    "features": ["Climber", "Fitness", "Imagiplay", "Obstacle", "Others - Sensory", "Pavilion", "Rocker", "Rooftop", "Ropenet", "Seat", "Slide"],
+    "features": ["Climber", "Fitness", "Imagiplay", "Obstacle", "Others - Sensory", "Pavilion", "Rocker", "Ropenet", "Seat", "Slide"],
     "featurePhotos": {
       "Climber": "photos/Punggol_Waterway East_Group 2/17472083840347609938529595208994.jpg",
       "Fitness": "photos/Punggol_Waterway East_Group 2/17472082847807165762773790677505.jpg",
@@ -5924,7 +5922,6 @@ const rawData = [
       "Others - Sensory": "photos/Punggol_Waterway East_Group 2/17472083872954978768332622056917.jpg",
       "Pavilion": "photos/Punggol_Waterway East_Group 2/17472081254278212498832065249632.jpg",
       "Rocker": "photos/Punggol_Waterway East_Group 2/17472080579002477095116750002162.jpg",
-      "Rooftop": "photos/Punggol_Waterway East_Group 2/.jpg",
       "Ropenet": "photos/Punggol_Waterway East_Group 2/17472081583277138238189740830405.jpg",
       "Seat": "photos/Punggol_Waterway East_Group 2/1747208271133566696346484137889.jpg",
       "Slide": "photos/Punggol_Waterway East_Group 2/17472083173973876308834857525837.jpg"
@@ -5968,7 +5965,7 @@ const rawData = [
       "Ropenet": "photos/Punggol_Waterway East_Group 1/image_(36).jpg",
       "Seat": "photos/Punggol_Waterway East_Group 1/17503205019472757662087049054508.jpg",
       "Shade": "photos/Punggol_Waterway East_Group 1/17503205516381693726953691135744.jpg",
-      "Swing": "photos/Punggol_Waterway East_Group 1/17503209311942545560240891425477.jpg"
+      "Swing": "photos/Punggol_Waterway East_Group 1/17503206033367729919436415736435.jpg"
     }
   },
   {
