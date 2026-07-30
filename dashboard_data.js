@@ -5512,7 +5512,7 @@ const rawData = [
       "Obstacle": "photos/Punggol_Northshore_Group 1/17473794426374470403775768283174.jpg",
       "Overhead": "photos/Punggol_Northshore_Group 1/17473792383264237200040717804133.jpg",
       "Rooftop": "photos/Punggol_Northshore_Group 1/image_(31).jpg",
-      "Slide": "photos/Punggol_Northshore_Group 1/17473793025544011003789422228796.jp",
+      "Slide": "photos/Punggol_Northshore_Group 1/17473793025544011003789422228796.jpg",
       "Swing": "photos/Punggol_Northshore_Group 1/17473791814337659356496162733663.jpg"
     }
   },
