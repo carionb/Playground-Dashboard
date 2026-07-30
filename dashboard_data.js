@@ -2184,7 +2184,7 @@ const rawData = [
     "features": ["Climber", "Fitness", "Imagiplay", "Learnwall", "Pole", "Shade", "Slide", "Tunnel"],
     "featurePhotos": {
       "Climber": "photos/Punggol_Punggol Town Centre_Group 1/image_(57).jpg",
-      "Fitness": "photos/Punggol_Punggol Town Centre_Group 1/image_(54).jpg",
+      "Fitness": "photos/Punggol_Punggol Town Centre_Group 1/image_(52).jpg",
       "Imagiplay": "photos/Punggol_Punggol Town Centre_Group 1/image_(55).jpg",
       "Learnwall": "photos/Punggol_Punggol Town Centre_Group 1/image_(53).jpg",
       "Pole": "photos/Punggol_Punggol Town Centre_Group 1/image_(51).jpg",
