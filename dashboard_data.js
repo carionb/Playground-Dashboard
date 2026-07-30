@@ -1171,7 +1171,7 @@ const rawData = [
     "year": 2021,
     "lat": 1.4169,
     "lng": 103.9127,
-    "features": ["Climber", "Obstacle", "Others - Double Pole", "Pole", "Ropenet", "Seat", "Seesaw", "Shade"],
+    "features": ["Climber", "Obstacle", "Others - Double Pole", "Pole", "Seat", "Seesaw", "Shade"],
     "featurePhotos": {
       "Climber": "photos/Punggol_Northshore_Group 2/image_(75).jpg",
       "Obstacle": "photos/Punggol_Northshore_Group 2/image_(74).jpg",
@@ -2375,7 +2375,7 @@ const rawData = [
     "year": 2021,
     "lat": 1.418,
     "lng": 103.9104,
-    "features": ["Climber", "Imagiplay", "Obstacle", "Pavilion", "Rooftop", "Ropenet", "Seat", "Slide", "Trampoline"],
+    "features": ["Climber", "Imagiplay", "Obstacle", "Pavilion", "Ropenet", "Seat", "Slide", "Trampoline"],
     "featurePhotos": {
       "Climber": "photos/Punggol_Northshore_Group 1/e606ac63_eedf_4758_b353_3ce70f6feaaa.jpeg",
       "Imagiplay": "photos/Punggol_Northshore_Group 1/1000032696.jpg",
