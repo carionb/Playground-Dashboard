@@ -1279,7 +1279,7 @@ const rawData = [
       "Others - Balance": "photos/Punggol_Northshore_Group 2/image_(4).jpg",
       "Pavilion": "photos/Punggol_Northshore_Group 2/image_(7).jpg",
       "Rocker": "photos/Punggol_Northshore_Group 2/image_(6).jpg",
-      "Seat": "photos/Punggol_Northshore_Group 2/189seats.jpeg",
+      "Seat": "photos/Punggol_Northshore_Group 2/IMG_8532.jpeg",
       "Seesaw": "photos/Punggol_Northshore_Group 2/image_(1).jpg",
       "Shade": "photos/Punggol_Northshore_Group 2/image_(3).jpg",
       "Slide": "photos/Punggol_Northshore_Group 2/image_(5).jpg"
